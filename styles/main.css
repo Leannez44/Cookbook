@@ -5,6 +5,7 @@ h1,h2,h3 {
 	color: darkslateblue;
 }
 .page {
+	margin: 0px auto;
 	width: 200px;
 	border-radius: 20px;
 }
