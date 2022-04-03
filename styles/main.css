@@ -1,0 +1,13 @@
+body {
+	background-color: lightyellow;
+}
+h1,h2,h3 {
+	color: darkslateblue;
+}
+.page {
+	width: 200px;
+	border-radius: 20px;
+}
+.small {
+	width: 50px;
+}
